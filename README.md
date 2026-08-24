@@ -15,7 +15,7 @@
 [![License](https://img.shields.io/badge/license-Apache%20v2.0-blue.svg)](LICENSE)
 [![Matrix](https://img.shields.io/matrix/supermq%3Amatrix.org?label=Chat&style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/#supermq:matrix.org)
 
-💡 [Get Started](#-quick-start)&ensp;•&ensp;🌐 [Website](https://www.absmach.eu/products/magistrala/)&ensp;•&ensp;📚 [Documentation](https://www.absmach.eu/docs/magistrala)&ensp;•&ensp;🤝 [Contributing](CONTRIBUTING.md)&ensp;•&ensp;💬 [Chat](https://matrix.to/#/#supermq:matrix.org)
+💡 [Get Started](#-quick-start)&ensp;•&ensp;🌐 [Website](https://www.absmach.eu/products/magistrala/)&ensp;•&ensp;📚 [Documentation](https://www.absmach.eu/docs/magistrala)&ensp;•&ensp;🤝 [Contributing](CONTRIBUTING.md)&ensp;•&ensp;💬 [Chat](https://matrix.to/#/!zhoyNzJKBUyyhHtgPr:gitter.im?via=gitter.im&via=matrix.org&via=chat.lfx.linuxfoundation.org)
 
 </div>
 
